@@ -1,0 +1,26 @@
+/* Other styles */
+
+.about-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.about-container h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.about-container h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.about-container p {
+    margin-bottom: 15px;
+}
+
+/* Other styles */

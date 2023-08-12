@@ -1,0 +1,30 @@
+/* Other styles */
+
+.faq-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.faq-container h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.faq-item {
+    margin-top: 20px;
+}
+
+.faq-item h2 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.faq-item p {
+    margin-top: 5px;
+}
+
+/* Other styles */

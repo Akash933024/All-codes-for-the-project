@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navigation Menu</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="navigation-menu">
+    <div class="mobile-toggle" onclick="toggleMenu()">☰</div>
+   <!-- Inside your <ul> for the navigation menu -->
+<ul class="navigation-menu">
+  <li><a href="index.html">HOME</a></li>
+  <li><a href="shop.html">SHOP</a></li>
+  <li><a href="search.html">SEARCH</a></li>
+  <li><a href="cart.html">CART</a></li>
+  <li><a href="login.html">LOGIN/SIGNUP</a></li>
+  <li><a href="wishlist.html">WISHLIST</a></li>
+  <li><a href="deals.html">DEALS/PROMOTION</a></li>
+  <li><a href="aboutus.html">ABOUT US</a></li>
+  <li><a href="contact.html">CONTACT US</a></li>
+  <li><a href="shipping.html">SHIPPING & RETURNS</a></li>
+  <li><a href="faq.html">FAQ’s</a></li>
+  <li><a href="reviews.html">REVIEWS</a></li>
+  <li><a href="blog.html">BLOG</a></li>
+  <li><a href="social.html">SOCIAL MEDIA LINKS</a></li>
+  <!-- New link for Categories/Filters -->
+  <li><a href="categories.html">Categories/Filters</a></li>
+</ul>
+
+  </nav>
+  
+  <script>
+    function toggleMenu() {
+      const menuList = document.getElementById('menuList');
+      menuList.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

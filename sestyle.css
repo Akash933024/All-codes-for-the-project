@@ -1,0 +1,15 @@
+/* Other styles */
+
+.search-container {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#searchInput {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Other styles */

@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .card {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .card-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .categories h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .categories ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .categories li {
+    margin-bottom: 5px;
+  }
+  
+  .card-remarks {
+    margin-top: 20px;
+    font-style: italic;
+    color: #666;
+  }
+  
+  /* Add more CSS styles as needed */
+  

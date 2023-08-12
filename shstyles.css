@@ -1,0 +1,26 @@
+/* Other styles */
+
+.shipping-returns-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.shipping-returns-container h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.shipping-returns-container h2 {
+    font-size: 1.5rem;
+    margin-top: 15px;
+}
+
+.shipping-returns-container p {
+    margin-top: 10px;
+}
+
+/* Other styles */
